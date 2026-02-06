@@ -112,3 +112,14 @@ The VisualOFGA system lays the groundwork for more advanced OpenFGA schema visua
 
 ---
 
+## Source Code Access
+The full source code is not publicly available at this time.
+
+Access may be granted for:
+- academic review
+- collaboration
+- research evaluation
+
+Please contact:
+📧 gpokhrel640@gmail.com
+
