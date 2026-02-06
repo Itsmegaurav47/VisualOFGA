@@ -1,0 +1,17 @@
+model
+  schema 1.1
+
+type organization
+  relations
+    define member: [user] or owner
+    define owner: [user]
+    define repo_admin: [organization#member]
+
+type repo
+  relations
+    define admin: (creator and repo_admin from owner) but not blocked
+    define blocked: [user, user:*]
+    define creator: [user]
+    define owner: [organization]
+
+type user
