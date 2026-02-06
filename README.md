@@ -1,8 +1,6 @@
 # VisualOFGA: Visualizing Open Fine-Grained Authorization Policies
 
-**Contributors**: Tajkia Nuri Ananna, Gaurav Pokharel, Amir Masoumzadeh  
 
-**Affiliation**: Albany Lab for Privacy and Security (ALPS), Department of Computer Science, University at Albany, SUNY
 
 ---
 
